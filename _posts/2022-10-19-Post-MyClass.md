@@ -1,8 +1,9 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: website course
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+man yad gereftam chegoone ba estefade az github safhe shakhsi khod ra besazam. 
+va fork kardan ra niz amookhtam. 
+ba tashakor az doctor sauleh etemadi. 
+<3
