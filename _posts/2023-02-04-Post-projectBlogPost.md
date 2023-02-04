@@ -10,7 +10,7 @@ title: project
 مرحله بعد درک کد پایتون و بازی با کد پایتون بود. با پایتون ژولیا ست و رنگ امیزی های مختلف را امتحان کردم.  
   
   
-    <img src="/assets/Pyjul.jpg" alt="FJUL" style="height: 500px; width:500px;"/>
+   <img src="/assets/Pyjul.jpg" alt="FJUL" style="height: 500px; width:500px;"/>
 
   
 
